@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OlabiLeonard
-- 👀 I’m interested in learning Python
+- 👀 I’m interested in programmation in Python language
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate with ocean scientist
 - 📫 How to reach me worouleonard@gmail.com
